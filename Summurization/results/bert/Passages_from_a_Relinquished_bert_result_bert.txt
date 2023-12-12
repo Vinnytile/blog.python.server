@@ -1,0 +1,4 @@
+"precision": [0.833516538143158]
+"recall": [0.8358721733093262]
+"f1": [0.834692656993866]
+"hashcode": "distilbert-base-uncased_L5_no-idf_version=0.3.12(hug_trans=4.34.1)"
